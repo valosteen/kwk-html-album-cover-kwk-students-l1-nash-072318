@@ -10,7 +10,7 @@ you to take care of business.
 Pharrell did provide us with a mock up of what he would like to see for the
 design of the album cover:
 
-![Happy Album Cover](./MOCKUP.jpg)
+<img src="https://s22.postimg.cc/dcqyuxbsx/MOCKUP.jpg" width="300px" align="right" hspace="10">
 
 In the industry, frontend developers are typically given specs just
 like this from the product team and then asked to write the code to make a
